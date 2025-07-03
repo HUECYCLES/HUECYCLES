@@ -1,6 +1,5 @@
-<h2 align="center">heya! i'm HUECYCLES🌈</h2>
+<h2 align="center">i'm HUECYCLES🌈</h2>
 <p align="center">
-  Brazil | 25 | she/they | digital artist + musician + aspiring gamedev<br><br>
   <a href="https://huecycles.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white"></a>
   <a href="https://x.com/HUECYCLES/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://bsky.app/profile/huecycles.com"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"></a>
